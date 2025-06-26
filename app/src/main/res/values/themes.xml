@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Pm2025tarea" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorSecondary">@color/white</item>
+    </style>
+
+    <style name="Theme.Pm2025tarea" parent="Base.Theme.Pm2025tarea" />
+</resources>

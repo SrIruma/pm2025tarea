@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">pm2025tarea</string>
+    <string name="ejercicio_1_1">EJERCICIO 1.1</string>
+    <string name="ejercicio_1_2">EJERCICIO 1.2</string>
+    <string name="titulo_main">Tarea Ejercicios Practicos</string>
+    <string name="ejercicio_1_3">EJERCICIO 1.3</string>
+    <string name="ejercicio_2_1">EJERCICIO 2.1</string>
+    <string name="estudiante">Carlos Espinoza - 122590039</string>
+    <string name="logo_desc">Logo de la universidad</string>
+    <string name="num1">Ingrese el primer número:</string>
+    <string name="num2">Ingrese el segundo número:</string>
+    <string name="_1">1</string>
+</resources>
